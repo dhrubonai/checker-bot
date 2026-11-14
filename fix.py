@@ -2225,8 +2225,8 @@ async def start(event):
                 Button.inline("  𝙎𝙐𝙋𝙋𝙊𝙍𝙏 🆘  ", b"support_menu"),
             ],
             [
-                Button.url("  𝙐𝙋𝘿𝘼𝙏𝙀𝙎 📣  ", f"https://t.me/+dRrisDTi-1A0NGI1"),
-                Button.url("  𝙂𝙍𝙊𝙐𝙋 💭  ", f"https://t.me/{CHANNEL_USERNAME}"),
+                #Button.url("  𝙐𝙋𝘿𝘼𝙏𝙀𝙎 📣  ", f"https://t.me/+dRrisDTi-1A0NGI1"),
+                #Button.url("  𝙂𝙍𝙊𝙐𝙋 💭  ", f"https://t.me/{CHANNEL_USERNAME}"),
             ],
         ]
 
